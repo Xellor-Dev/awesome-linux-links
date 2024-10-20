@@ -33,7 +33,6 @@
 - [Homebrew](https://brew.sh/) - Менеджер відсутніх пакетів для Linux (або MacOS).
 - [Neofetch](https://github.com/dylanaraps/neofetch) - Інструмент командного рядка для відображення системної інформації в естетичному форматі.
 - [htop](https://htop.dev/) - Інтерактивний засіб перегляду процесів для систем Unix.
-- [Lime Text](https://limetext.org/) - Потужний і легкий текстовий редактор.
 - [btop](https://github.com/aristocratos/btop) - Монітор ресурсів, який показує використання та статистику для процесора, пам’яті, дисків, мережі та процесів.
 - [GParted](https://gparted.org/) - Безкоштовний редактор розділів для графічного керування розділами диска.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - Емулятор терміналу, який підтримує кілька панелей терміналу в одному вікні.
@@ -74,6 +73,7 @@
 # Засоби розробки
 - [Visual Studio Code](https://code.visualstudio.com/) - Потужний редактор коду з відкритим вихідним кодом із підтримкою різних мов програмування.
 - [Sublime Text](https://www.sublimetext.com/) - Текстовий редактор для коду.
+- [Lime Text](https://limetext.github.io/) - Потужний та легкий текстовий редактор, безкоштовний та відкритий наступник Sublime Text.
 - [Atom](https://atom.io/) - Хакерський текстовий редактор для 21 століття.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE для розробки Python.
 - [Eclipse](https://www.eclipse.org/) - IDE переважно для розробки Java, але з підтримкою інших мов.

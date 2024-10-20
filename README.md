@@ -31,7 +31,6 @@ A curated collection of essential links and resources for Linux users, from offi
 - [Homebrew](https://brew.sh/) - The missing package manager for Linux (or MacOS).
 - [Neofetch](https://github.com/dylanaraps/neofetch) - Command-line tool to display system information in an aesthetic format.
 - [htop](https://htop.dev/) - An interactive process viewer for Unix systems.
-- [Lime Text](https://limetext.org/) - A powerful and lightweight text editor.
 - [btop](https://github.com/aristocratos/btop) - A resource monitor that shows usage and stats for processor, memory, disks, network, and processes.
 - [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - A terminal emulator that supports multiple terminal panes in one window.
@@ -72,6 +71,7 @@ A curated collection of essential links and resources for Linux users, from offi
 # Development Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - A powerful, open-source code editor with support for various programming languages.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup, and prose.
+- [Lime Text](https://limetext.github.io/) - Powerful and elegant text editor, FOSS successor to Sublime Text.
 - [Atom](https://atom.io/) - A hackable text editor for the 21st century.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - An IDE for Python development.
 - [Eclipse](https://www.eclipse.org/) - An IDE primarily for Java development but with support for other languages.
